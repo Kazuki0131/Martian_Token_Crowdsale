@@ -2,7 +2,7 @@
 
 ## To run the program: 
 
-Source code: KaseiCoin.sol, KaseiCoinCrowdsale.sol, KaseiCoinCrowdsale.sol_optional.sol
+Source code: KaseiCoin.sol, KaseiCoinCrowdsale.sol, KaseiCoinCrowdsale_optional.sol
 
 run this code in the Remix IDE
 
@@ -12,10 +12,11 @@ The program will create a fungible token (KaseiCoin) and launch a crowdsale that
 <br/>
 
 ## Evaluation
-### 1. Screenshots of successful compilation of KaseiCoin, KaseiCoinCrowdsale
+### 1. Screenshots of successful compilation of KaseiCoin, KaseiCoinCrowdsale and KaseiCoinCrowdsale_optional
 
 ![alt=""](image/KaseiCoin.png)
 ![alt=""](image/KaseiCoinCrowdsale.png)
+![alt=""](image/KaseiCoinCrowdsale_optional.png)
 
 ### 2. Deploy KaseiCoinCrowdsale
 
